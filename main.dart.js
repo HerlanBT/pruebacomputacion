@@ -82955,7 +82955,7 @@ p=A.bq("Curso registrado: "+A.l(s.h(0,"curso")),l,l,l,l,l,l)
 o=A.bq("\ud83c\udfaf Puntaje",l,l,l,l,l,l)
 n=s.h(0,"puntaje")
 m=t.D
-return A.i3(A.b([A.HM(A.a4y(!0,k,l,p,q,A.i3(A.b([o,A.bq(A.l(n==null?0:n),l,l,l,A.cn(l,l,l,l,l,l,l,l,l,l,l,16,l,l,B.aH,l,l,!0,l,l,l,l,l,l,l,l),l,l)],m),B.az,B.fW,B.b5)),B.k,4,l,l),B.yT,A.bq("\ud83d\udcd8 Cursos disponibles",l,l,l,A.cn(l,l,l,l,l,l,l,l,l,l,l,20,l,l,B.aH,l,l,!0,l,l,l,l,l,l,l,l),l,l),B.Oz,A.ar8(A.awh(new A.YZ(this.a,r),10)),B.yT,A.a0t(A.en(B.nl,l,l),A.bq("Ver Ranking",l,l,l,l,l,l),new A.Z_(a),A.IW(l,l,B.bq,l,l,l,l,l,l,B.k,l,l,new A.ao(0,16,0,16),l,l,l,l,l,A.cn(l,l,l,l,l,l,l,l,l,l,l,18,l,l,B.aH,l,l,!0,l,l,l,l,l,l,l,l),l)),A.cj(l,16,l),new A.J2(l)],m),B.bO,B.ao,B.b5)},
+return A.i3(A.b([A.HM(A.a4y(!0,k,l,p,q,A.i3(A.b([o,A.bq(A.l(n==null?0:n),l,l,l,A.cn(l,l,l,l,l,l,l,l,l,l,l,16,l,l,B.aH,l,l,!0,l,l,l,l,l,l,l,l),l,l)],m),B.az,B.fW,B.b5)),B.k,4,l,l),B.yT,A.bq("\ud83d\udcd8 Cursos disponibles (delice hacia abajo si no encuentra su curso)",l,l,l,A.cn(l,l,l,l,l,l,l,l,l,l,l,20,l,l,B.aH,l,l,!0,l,l,l,l,l,l,l,l),l,l),B.Oz,A.ar8(A.awh(new A.YZ(this.a,r),10)),B.yT,A.a0t(A.en(B.nl,l,l),A.bq("Ver Ranking",l,l,l,l,l,l),new A.Z_(a),A.IW(l,l,B.bq,l,l,l,l,l,l,B.k,l,l,new A.ao(0,16,0,16),l,l,l,l,l,A.cn(l,l,l,l,l,l,l,l,l,l,l,18,l,l,B.aH,l,l,!0,l,l,l,l,l,l,l,l),l)),A.cj(l,16,l),new A.J2(l)],m),B.bO,B.ao,B.b5)},
 $S:540}
 A.YZ.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=this.a,l=m.d[b],k=this.b.h(0,l)
