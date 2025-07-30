@@ -1,0 +1,3113 @@
+{
+  "3ro PIM": [
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/250px-3-Tasten-Maus_Microsoft.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IBM_Model_M_Spanish_Keyboard.jpg/500px-IBM_Model_M_Spanish_Keyboard.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LG_L194WT-SF_LCD_monitor.jpg/250px-LG_L194WT-SF_LCD_monitor.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla o Monitor",
+        "CPU"
+      ],
+      "respuesta_correcta": "Pantalla o Monitor"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Falcon_Northwest_Talon.png/250px-Falcon_Northwest_Talon.png",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "CPU"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora?",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo?",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora?",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada?",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escribir en la computadora?",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Micrófono",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (1)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (2)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (3)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (4)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (5)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (6)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (7)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (8)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (9)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (10)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (11)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (12)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (13)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (14)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (15)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (16)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (17)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (18)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (19)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (20)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (21)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (22)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (23)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (24)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué usamos para escribir en la computadora? (25)",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Micrófono",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (26)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (27)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (28)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (29)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (30)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (31)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (32)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (33)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (34)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (35)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (36)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (37)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (38)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (39)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (40)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (41)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (42)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (43)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (44)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (45)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (46)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (47)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (48)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (49)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (50)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+        {
+      "pregunta": "¿Cuál es el planeta más cercano al Sol?",
+      "opciones": ["Marte", "Venus", "Mercurio", "Júpiter"],
+      "respuesta_correcta": "Mercurio"
+    },
+    {
+      "pregunta": "¿Qué instrumento mide la temperatura?",
+      "opciones": ["Barómetro", "Termómetro", "Higrómetro", "Telescopio"],
+      "respuesta_correcta": "Termómetro"
+    },
+    {
+      "pregunta": "¿Cuál es el animal más grande del mundo?",
+      "opciones": ["Elefante", "Ballena azul", "Jirafa", "Tiburón blanco"],
+      "respuesta_correcta": "Ballena azul"
+    },
+    {
+      "pregunta": "¿Qué grupo vegetal produce semillas?",
+      "opciones": ["Hongos", "Musgos", "Árboles", "Algas"],
+      "respuesta_correcta": "Árboles"
+    },
+    {
+      "pregunta": "¿Qué forma toma el agua al congelarse?",
+      "opciones": ["Hielo", "Gas", "Nieve", "Vapor"],
+      "respuesta_correcta": "Hielo"
+    }
+  ],
+  "4to PIM": [
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/250px-3-Tasten-Maus_Microsoft.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IBM_Model_M_Spanish_Keyboard.jpg/500px-IBM_Model_M_Spanish_Keyboard.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LG_L194WT-SF_LCD_monitor.jpg/250px-LG_L194WT-SF_LCD_monitor.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla o Monitor",
+        "CPU"
+      ],
+      "respuesta_correcta": "Pantalla o Monitor"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Falcon_Northwest_Talon.png/250px-Falcon_Northwest_Talon.png",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "CPU"
+    },
+    {
+      "pregunta": "¿Qué es un archivo en la computadora?",
+      "opciones": [
+        "Un programa",
+        "Una carpeta",
+        "Un conjunto de datos guardados",
+        "Un virus"
+      ],
+      "respuesta_correcta": "Un conjunto de datos guardados"
+    },
+    {
+      "pregunta": "¿Qué hace una impresora?",
+      "opciones": [
+        "Muestra imágenes",
+        "Graba videos",
+        "Imprime documentos",
+        "Escanea objetos"
+      ],
+      "respuesta_correcta": "Imprime documentos"
+    },
+    {
+      "pregunta": "¿Qué es una carpeta en la computadora?",
+      "opciones": [
+        "Un programa",
+        "Un documento",
+        "Un lugar para guardar archivos",
+        "Un virus"
+      ],
+      "respuesta_correcta": "Un lugar para guardar archivos"
+    },
+    {
+      "pregunta": "¿Qué es un ícono en el escritorio?",
+      "opciones": [
+        "Un archivo perdido",
+        "Una imagen sin sentido",
+        "Un acceso directo a un programa",
+        "Una ventana cerrada"
+      ],
+      "respuesta_correcta": "Un acceso directo a un programa"
+    },
+    {
+      "pregunta": "¿Qué país tiene la mayor población del mundo?",
+      "opciones": ["India", "Estados Unidos", "China", "Brasil"],
+      "respuesta_correcta": "China"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Bolivia?",
+      "opciones": ["Sucre", "Santa Cruz", "La Paz", "Cochabamba"],
+      "respuesta_correcta": "La Paz"
+    },
+    {
+      "pregunta": "¿Cómo se llaman los libros que estudian el espacio y los planetas?",
+      "opciones": ["Biología", "Astronomía", "Historia", "Geografía"],
+      "respuesta_correcta": "Astronomía"
+    },
+    {
+      "pregunta": "¿En qué continente está Egipto?",
+      "opciones": ["Asia", "Europa", "África", "Oceanía"],
+      "respuesta_correcta": "África"
+    },
+    {
+      "pregunta": "¿Cuántos continentes hay en el mundo?",
+      "opciones": ["5", "6", "7", "8"],
+      "respuesta_correcta": "7"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un sistema operativo?",
+      "opciones": [
+        "Windows",
+        "Word",
+        "Excel",
+        "Internet"
+      ],
+      "respuesta_correcta": "Windows"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (1)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (2)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (3)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (4)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (5)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (6)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (7)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (8)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (9)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (10)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (11)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (12)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (13)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (14)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (15)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (16)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (17)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (18)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (19)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (20)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (21)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (22)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (23)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (24)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué usamos para escribir en la computadora? (25)",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Micrófono",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (26)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (27)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (28)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (29)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (30)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (31)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (32)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (33)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (34)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (35)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (36)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (37)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (38)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (39)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (40)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (41)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (42)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (43)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (44)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (45)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (46)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (47)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (48)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (49)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (50)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    }
+  ],
+  "5to PIM": [
+      {
+      "pregunta": "¿Cuál es el gas que respiramos principalmente?",
+      "opciones": ["Oxígeno", "Nitrógeno", "Dióxido de carbono", "Hidrógeno"],
+      "respuesta_correcta": "Oxígeno"
+    },
+    {
+      "pregunta": "¿En qué continente está Bolivia?",
+      "opciones": ["Asia", "Europa", "África", "América"],
+      "respuesta_correcta": "América"
+    },
+    {
+      "pregunta": "¿Cuántos planetas hay en el sistema solar?",
+      "opciones": ["7", "8", "9", "10"],
+      "respuesta_correcta": "8"
+    },
+    {
+      "pregunta": "¿Quién inventó la bombilla eléctrica?",
+      "opciones": ["Alexander Graham Bell", "Nikola Tesla", "Thomas Edison", "Isaac Newton"],
+      "respuesta_correcta": "Thomas Edison"
+    },
+    {
+      "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+      "opciones": ["Inglés", "Chino mandarín", "Español", "Hindi"],
+      "respuesta_correcta": "Chino mandarín"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/3-Tasten-Maus_Microsoft.jpg/250px-3-Tasten-Maus_Microsoft.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/IBM_Model_M_Spanish_Keyboard.jpg/500px-IBM_Model_M_Spanish_Keyboard.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LG_L194WT-SF_LCD_monitor.jpg/250px-LG_L194WT-SF_LCD_monitor.jpg",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla o Monitor",
+        "CPU"
+      ],
+      "respuesta_correcta": "Pantalla o Monitor"
+    },
+    {
+      "pregunta": "¿Qué objeto se muestra en la imagen?",
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Falcon_Northwest_Talon.png/250px-Falcon_Northwest_Talon.png",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "CPU"
+    },
+    {
+      "pregunta": "¿Qué es un procesador?",
+      "opciones": [
+        "Un programa",
+        "Una parte del teclado",
+        "El cerebro de la computadora",
+        "Una memoria externa"
+      ],
+      "respuesta_correcta": "El cerebro de la computadora"
+    },
+    {
+      "pregunta": "¿Qué hace el disco duro?",
+      "opciones": [
+        "Procesa datos",
+        "Almacena información",
+        "Imprime documentos",
+        "Conecta a internet"
+      ],
+      "respuesta_correcta": "Almacena información"
+    },
+    {
+      "pregunta": "¿Qué es un virus informático?",
+      "opciones": [
+        "Un juego",
+        "Un archivo útil",
+        "Un programa dañino",
+        "Un antivirus"
+      ],
+      "respuesta_correcta": "Un programa dañino"
+    },
+    {
+      "pregunta": "¿Qué es un software?",
+      "opciones": [
+        "La parte física de la computadora",
+        "Un componente eléctrico",
+        "Los programas de la computadora",
+        "Una entrada de datos"
+      ],
+      "respuesta_correcta": "Los programas de la computadora"
+    },
+    {
+      "pregunta": "¿Qué tipo de memoria es la RAM?",
+      "opciones": [
+        "Memoria de almacenamiento permanente",
+        "Memoria de trabajo temporal",
+        "Memoria externa",
+        "Memoria de respaldo"
+      ],
+      "respuesta_correcta": "Memoria de trabajo temporal"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (1)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (2)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (3)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (4)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (5)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (6)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (7)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (8)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (9)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (10)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (11)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (12)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (13)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (14)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (15)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (16)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (17)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (18)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (19)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (20)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (21)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (22)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (23)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (24)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué usamos para escribir en la computadora? (25)",
+      "opciones": [
+        "Ratón",
+        "Teclado",
+        "Micrófono",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (26)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (27)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (28)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (29)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (30)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (31)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (32)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (33)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (34)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (35)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Para qué sirve la barra espaciadora del teclado? (36)",
+      "opciones": [
+        "Poner un espacio",
+        "Borrar letras",
+        "Encender la computadora",
+        "Mover el ratón"
+      ],
+      "respuesta_correcta": "Poner un espacio"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (37)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para borrar letras? (38)",
+      "opciones": [
+        "Shift",
+        "Espacio",
+        "Enter",
+        "Borrar (Backspace)"
+      ],
+      "respuesta_correcta": "Borrar (Backspace)"
+    },
+    {
+      "pregunta": "¿Con qué programa hicimos dibujos? (39)",
+      "opciones": [
+        "Paint",
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Dónde aparecen las letras que escribimos? (40)",
+      "opciones": [
+        "Parlantes",
+        "Impresora",
+        "Pantalla",
+        "Ratón"
+      ],
+      "respuesta_correcta": "Pantalla"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (41)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de entrada? (42)",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Parlante",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué hacemos en dactilografía? (43)",
+      "opciones": [
+        "Tocamos música",
+        "Escribimos con el teclado",
+        "Dibujamos",
+        "Jugamos"
+      ],
+      "respuesta_correcta": "Escribimos con el teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (44)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (45)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (46)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (47)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué usamos para escuchar sonidos en la computadora? (48)",
+      "opciones": [
+        "Ratón",
+        "Micrófono",
+        "Parlantes",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Parlantes"
+    },
+    {
+      "pregunta": "¿Qué parte de la computadora muestra lo que estamos haciendo? (49)",
+      "opciones": [
+        "CPU",
+        "Monitor",
+        "Teclado",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor en la computadora? (50)",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Ratón",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Ratón"
+    }
+  ],
+  "6to PIM": [
+       {
+      "pregunta": "¿Qué órgano produce insulina?",
+      "opciones": ["Hígado", "Páncreas", "Riñón", "Estómago"],
+      "respuesta_correcta": "Páncreas"
+    },
+    {
+      "pregunta": "¿Qué continente tiene más países?",
+      "opciones": ["África", "Asia", "Europa", "América"],
+      "respuesta_correcta": "África"
+    },
+    {
+      "pregunta": "¿Cuál es la capital de Francia?",
+      "opciones": ["Londres", "Madrid", "París", "Roma"],
+      "respuesta_correcta": "París"
+    },
+    {
+      "pregunta": "¿Qué instrumento se usa para ver las estrellas?",
+      "opciones": ["Microscopio", "Telescopio", "Binoculares", "Radar"],
+      "respuesta_correcta": "Telescopio"
+    },
+    {
+      "pregunta": "¿Qué nutre a las plantas con energía?",
+      "opciones": ["Fotosíntesis", "Respiración", "Digestión", "Evaporación"],
+      "respuesta_correcta": "Fotosíntesis"
+    },
+    {
+      "pregunta": "¿Qué es Internet?",
+      "opciones": [
+        "Un navegador",
+        "Una página web",
+        "Una red mundial de computadoras",
+        "Una aplicación"
+      ],
+      "respuesta_correcta": "Una red mundial de computadoras"
+    },
+    {
+      "pregunta": "¿Qué navegador se usa para acceder a páginas web?",
+      "opciones": [
+        "Word",
+        "Chrome",
+        "Excel",
+        "Windows"
+      ],
+      "respuesta_correcta": "Chrome"
+    },
+    {
+      "pregunta": "¿Qué es una URL?",
+      "opciones": [
+        "Una computadora portátil",
+        "Una dirección web",
+        "Una página de error",
+        "Un archivo de Word"
+      ],
+      "respuesta_correcta": "Una dirección web"
+    },
+    {
+      "pregunta": "¿Qué es un motor de búsqueda?",
+      "opciones": [
+        "Un sitio para chatear",
+        "Un programa para juegos",
+        "Un sistema para buscar información",
+        "Un tipo de red social"
+      ],
+      "respuesta_correcta": "Un sistema para buscar información"
+    },
+    {
+      "pregunta": "¿Qué es un correo electrónico?",
+      "opciones": [
+        "Una llamada telefónica",
+        "Una carta física",
+        "Un mensaje enviado por internet",
+        "Un archivo PDF"
+      ],
+      "respuesta_correcta": "Un mensaje enviado por internet"
+    },
+    {
+      "pregunta": "¿Qué programa usamos para escribir textos?",
+      "opciones": [
+        "Paint",
+        "Word",
+        "Excel",
+        "Chrome"
+      ],
+      "respuesta_correcta": "Word"
+    },
+    {
+      "pregunta": "¿Qué tecla usamos para dejar un espacio entre palabras?",
+      "opciones": [
+        "Enter",
+        "Shift",
+        "Espacio",
+        "Ctrl"
+      ],
+      "respuesta_correcta": "Espacio"
+    },
+    {
+      "pregunta": "¿Qué tecla sirve para comenzar una nueva línea?",
+      "opciones": [
+        "Shift",
+        "Tab",
+        "Enter",
+        "Alt"
+      ],
+      "respuesta_correcta": "Enter"
+    },
+    {
+      "pregunta": "¿Cuál es el botón para guardar un archivo en Word?",
+      "opciones": [
+        "Botón rojo",
+        "Botón de imprimir",
+        "Botón de disquete",
+        "Botón de cortar"
+      ],
+      "respuesta_correcta": "Botón de disquete"
+    },
+    {
+      "pregunta": "¿Qué permite cambiar el tipo de letra en Word?",
+      "opciones": [
+        "Insertar",
+        "Fuente",
+        "Inicio",
+        "Diseño"
+      ],
+      "respuesta_correcta": "Fuente"
+    },
+    {
+      "pregunta": "¿Qué usamos para hacer dibujos simples?",
+      "opciones": [
+        "Word",
+        "Excel",
+        "Paint",
+        "PowerPoint"
+      ],
+      "respuesta_correcta": "Paint"
+    },
+    {
+      "pregunta": "¿Cómo se llama el programa para presentaciones?",
+      "opciones": [
+        "PowerPoint",
+        "Excel",
+        "Chrome",
+        "Bloc de notas"
+      ],
+      "respuesta_correcta": "PowerPoint"
+    },
+    {
+      "pregunta": "¿Qué es Word?",
+      "opciones": [
+        "Un navegador",
+        "Un programa para escribir",
+        "Una red social",
+        "Un buscador"
+      ],
+      "respuesta_correcta": "Un programa para escribir"
+    },
+    {
+      "pregunta": "¿Qué parte del teclado usamos para escribir letras mayúsculas?",
+      "opciones": [
+        "Tab",
+        "Alt",
+        "Shift",
+        "Ctrl"
+      ],
+      "respuesta_correcta": "Shift"
+    },
+    {
+      "pregunta": "¿Qué se necesita para usar Internet?",
+      "opciones": [
+        "Televisión",
+        "Cable USB",
+        "Conexión a red",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Conexión a red"
+    },
+    {
+      "pregunta": "¿Qué es un antivirus?",
+      "opciones": [
+        "Un programa para escribir",
+        "Un programa que protege la computadora",
+        "Un tipo de hardware",
+        "Un navegador"
+      ],
+      "respuesta_correcta": "Un programa que protege la computadora"
+    },
+    {
+      "pregunta": "¿Qué es un archivo?",
+      "opciones": [
+        "Un programa",
+        "Un documento guardado en la computadora",
+        "Una red social",
+        "Un virus"
+      ],
+      "respuesta_correcta": "Un documento guardado en la computadora"
+    },
+    {
+      "pregunta": "¿Qué es un sistema operativo?",
+      "opciones": [
+        "Un programa para escribir",
+        "El software que gestiona la computadora",
+        "Un tipo de hardware",
+        "Un navegador"
+      ],
+      "respuesta_correcta": "El software que gestiona la computadora"
+    },
+    {
+      "pregunta": "¿Qué es un archivo comprimido?",
+      "opciones": [
+        "Un archivo dañado",
+        "Un archivo con menos tamaño",
+        "Un virus",
+        "Un programa"
+      ],
+      "respuesta_correcta": "Un archivo con menos tamaño"
+    },
+    {
+      "pregunta": "¿Qué es un archivo PDF?",
+      "opciones": [
+        "Un tipo de imagen",
+        "Un formato de documento",
+        "Un programa de juegos",
+        "Un virus"
+      ],
+      "respuesta_correcta": "Un formato de documento"
+    },
+    {
+      "pregunta": "¿Qué es un navegador web?",
+      "opciones": [
+        "Un programa para navegar por internet",
+        "Un tipo de virus",
+        "Un hardware",
+        "Un sistema operativo"
+      ],
+      "respuesta_correcta": "Un programa para navegar por internet"
+    }
+  ],
+  "1ro SEC": [
+     {
+      "pregunta": "¿Cuál es el símbolo químico del agua?",
+      "opciones": ["H2O", "O2", "CO2", "H2SO4"],
+      "respuesta_correcta": "H2O"
+    },
+    {
+      "pregunta": "¿Qué fecha marca la independencia de Bolivia?",
+      "opciones": ["6 de agosto", "12 de octubre", "25 de mayo", "16 de julio"],
+      "respuesta_correcta": "6 de agosto"
+    },
+    {
+      "pregunta": "¿Quién escribió “Don Quijote de la Mancha”?",
+      "opciones": ["Miguel de Cervantes", "Gabriel García Márquez", "Pablo Neruda", "Mario Vargas Llosa"],
+      "respuesta_correcta": "Miguel de Cervantes"
+    },
+    {
+      "pregunta": "¿Qué órgano bombea sangre en el cuerpo humano?",
+      "opciones": ["Cerebro", "Hígado", "Pulmón", "Corazón"],
+      "respuesta_correcta": "Corazón"
+    },
+    {
+      "pregunta": "¿Cuál es el río más largo de América del Sur?",
+      "opciones": ["Orinoco", "Paraná", "Amazonas", "Magdalena"],
+      "respuesta_correcta": "Amazonas"
+    },
+    {
+      "pregunta": "¿Cuál es la función del CPU en una computadora?",
+      "opciones": [
+        "Procesar datos",
+        "Mostrar imágenes",
+        "Almacenar documentos",
+        "Imprimir resultados"
+      ],
+      "respuesta_correcta": "Procesar datos"
+    },
+    {
+      "pregunta": "¿Qué dispositivo se utiliza para ingresar datos a la computadora?",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Impresora",
+        "Parlantes"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un dispositivo de salida?",
+      "opciones": [
+        "Teclado",
+        "Ratón",
+        "Monitor",
+        "Escáner"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué parte interna guarda datos permanentemente?",
+      "opciones": [
+        "RAM",
+        "CPU",
+        "Disco duro",
+        "Teclado"
+      ],
+      "respuesta_correcta": "Disco duro"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un componente externo?",
+      "opciones": [
+        "RAM",
+        "Placa madre",
+        "Mouse",
+        "Fuente de poder"
+      ],
+      "respuesta_correcta": "Mouse"
+    }
+  ],
+  "2do SEC": [
+     {
+      "pregunta": "¿Cuál es el río más largo del mundo?",
+      "opciones": ["Nilo", "Amazonas", "Misisipi", "Yangtsé"],
+      "respuesta_correcta": "Amazonas"
+    },
+    {
+      "pregunta": "¿Qué es un haiku?",
+      "opciones": ["Una novela corta", "Un tipo de poema japonés", "Una pintura", "Un cuento tradicional"],
+      "respuesta_correcta": "Un tipo de poema japonés"
+    },
+    {
+      "pregunta": "¿Qué país ganó la Copa Mundial de Fútbol en 2018?",
+      "opciones": ["Brasil", "Alemania", "Francia", "Argentina"],
+      "respuesta_correcta": "Francia"
+    },
+    {
+      "pregunta": "¿Cuál es el metal más duro encontrado en la naturaleza?",
+      "opciones": ["Oro", "Cobre", "Hierro", "Piedra de hierro"],
+      "respuesta_correcta": "Hierro"
+    },
+    {
+      "pregunta": "¿Qué inventó el teléfono?",
+      "opciones": ["Thomas Edison", "Nikola Tesla", "Alexander Graham Bell", "Guglielmo Marconi"],
+      "respuesta_correcta": "Alexander Graham Bell"
+    },
+    {
+      "pregunta": "¿Qué es el hardware?",
+      "opciones": [
+        "Programas de la computadora",
+        "Parte física de la computadora",
+        "Un virus",
+        "Un archivo de Word"
+      ],
+      "respuesta_correcta": "Parte física de la computadora"
+    },
+    {
+      "pregunta": "¿Qué es el software?",
+      "opciones": [
+        "Cables de red",
+        "Pantalla",
+        "Programas que usamos en la computadora",
+        "Memoria RAM"
+      ],
+      "respuesta_correcta": "Programas que usamos en la computadora"
+    },
+    {
+      "pregunta": "¿Cuál de estos es hardware?",
+      "opciones": [
+        "Paint",
+        "Teclado",
+        "Word",
+        "Windows"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Cuál de estos es software?",
+      "opciones": [
+        "Mouse",
+        "Monitor",
+        "Excel",
+        "Impresora"
+      ],
+      "respuesta_correcta": "Excel"
+    },
+    {
+      "pregunta": "¿Qué es un programa?",
+      "opciones": [
+        "Un tipo de hardware",
+        "Un archivo dañado",
+        "Un conjunto de instrucciones",
+        "Una parte del teclado"
+      ],
+      "respuesta_correcta": "Un conjunto de instrucciones"
+    },
+    {
+      "pregunta": "¿Windows es hardware o software?",
+      "opciones": [
+        "Hardware",
+        "Software",
+        "Disco duro",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Software"
+    },
+    {
+      "pregunta": "¿Qué parte del hardware muestra imágenes?",
+      "opciones": [
+        "Teclado",
+        "Ratón",
+        "Monitor",
+        "CPU"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué parte usamos para escribir?",
+      "opciones": [
+        "Pantalla",
+        "Teclado",
+        "Ratón",
+        "Altavoz"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Qué usamos para mover el cursor?",
+      "opciones": [
+        "Micrófono",
+        "Ratón",
+        "Pantalla",
+        "CPU"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un programa para escribir textos?",
+      "opciones": [
+        "Paint",
+        "Excel",
+        "Word",
+        "Chrome"
+      ],
+      "respuesta_correcta": "Word"
+    },
+    {
+      "pregunta": "¿Qué es el CPU?",
+      "opciones": [
+        "Pantalla",
+        "Impresora",
+        "Unidad central de procesamiento",
+        "Teclado"
+      ],
+      "respuesta_correcta": "Unidad central de procesamiento"
+    },
+    {
+      "pregunta": "¿Qué hace la memoria RAM?",
+      "opciones": [
+        "Guarda información de forma temporal",
+        "Imprime documentos",
+        "Almacena de forma permanente",
+        "Conecta a internet"
+      ],
+      "respuesta_correcta": "Guarda información de forma temporal"
+    },
+    {
+      "pregunta": "¿Qué hace el disco duro?",
+      "opciones": [
+        "Imprime imágenes",
+        "Almacena datos permanentemente",
+        "Conecta la red",
+        "Apaga la computadora"
+      ],
+      "respuesta_correcta": "Almacena datos permanentemente"
+    },
+    {
+      "pregunta": "¿Dónde se colocan los componentes internos?",
+      "opciones": [
+        "Monitor",
+        "Gabinete",
+        "Teclado",
+        "Cable USB"
+      ],
+      "respuesta_correcta": "Gabinete"
+    },
+    {
+      "pregunta": "¿Qué componente enfría el CPU?",
+      "opciones": [
+        "Fuente de poder",
+        "Ventilador",
+        "Memoria RAM",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Ventilador"
+    },
+    {
+      "pregunta": "¿Qué es la placa madre?",
+      "opciones": [
+        "Un software de seguridad",
+        "Un tipo de monitor",
+        "La base donde se conectan los componentes",
+        "Un disco extraíble"
+      ],
+      "respuesta_correcta": "La base donde se conectan los componentes"
+    },
+    {
+      "pregunta": "¿Qué es una tarjeta de video?",
+      "opciones": [
+        "Una memoria externa",
+        "Una imagen",
+        "Componente que mejora los gráficos",
+        "Un programa de Office"
+      ],
+      "respuesta_correcta": "Componente que mejora los gráficos"
+    },
+    {
+      "pregunta": "¿Qué es un periférico?",
+      "opciones": [
+        "Parte interna del CPU",
+        "Programa del sistema",
+        "Dispositivo que se conecta a la computadora",
+        "Software de seguridad"
+      ],
+      "respuesta_correcta": "Dispositivo que se conecta a la computadora"
+    },
+    {
+      "pregunta": "¿Qué periférico se usa para imprimir?",
+      "opciones": [
+        "Monitor",
+        "Ratón",
+        "Impresora",
+        "Teclado"
+      ],
+      "respuesta_correcta": "Impresora"
+    },
+    {
+      "pregunta": "¿Qué periférico se usa para hablar en videollamadas?",
+      "opciones": [
+        "Mouse",
+        "Micrófono",
+        "Teclado",
+        "Pantalla"
+      ],
+      "respuesta_correcta": "Micrófono"
+    },
+    {
+      "pregunta": "¿Qué periférico muestra la imagen?",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Altavoz",
+        "Mouse"
+      ],
+      "respuesta_correcta": "Monitor"
+    },
+    {
+      "pregunta": "¿Qué periférico se usa para escuchar sonidos?",
+      "opciones": [
+        "Teclado",
+        "Pantalla",
+        "Altavoces",
+        "CPU"
+      ],
+      "respuesta_correcta": "Altavoces"
+    },
+    {
+      "pregunta": "¿Qué periférico se usa para mover el puntero?",
+      "opciones": [
+        "Monitor",
+        "Teclado",
+        "Ratón",
+        "Cable USB"
+      ],
+      "respuesta_correcta": "Ratón"
+    },
+    {
+      "pregunta": "¿Qué periférico se usa para introducir texto?",
+      "opciones": [
+        "Pantalla",
+        "Teclado",
+        "Impresora",
+        "Parlante"
+      ],
+      "respuesta_correcta": "Teclado"
+    },
+    {
+      "pregunta": "¿Cuál de estos es un periférico de entrada?",
+      "opciones": [
+        "Impresora",
+        "Altavoz",
+        "Teclado",
+        "Monitor"
+      ],
+      "respuesta_correcta": "Teclado"
+    }
+  ],
+  "3ro SEC": [
+     {
+      "pregunta": "¿Cuál es la fórmula del perimetro de un círculo?",
+      "opciones": ["π × diámetro", "2 × π × radio", "π × radio²", "2 × radio"],
+      "respuesta_correcta": "2 × π × radio"
+    },
+    {
+      "pregunta": "¿Quién pintó la Mona Lisa?",
+      "opciones": ["Vincent Van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+      "respuesta_correcta": "Leonardo da Vinci"
+    },
+    {
+      "pregunta": "¿Qué evento marcó el inicio de la Segunda Guerra Mundial?",
+      "opciones": ["Batalla de Stalingrado", "Invasión de Polonia", "Caída de Berlín", "Bombardeo de Hiroshima"],
+      "respuesta_correcta": "Invasión de Polonia"
+    },
+    {
+      "pregunta": "¿Cuál es el metal cuyo símbolo químico es Fe?",
+      "opciones": ["Oro", "Hierro", "Plata", "Plomo"],
+      "respuesta_correcta": "Hierro"
+    },
+    {
+      "pregunta": "¿Qué tipo de triángulo tiene todos sus lados iguales?",
+      "opciones": ["Isósceles", "Escaleno", "Equilátero", "Obtusángulo"],
+      "respuesta_correcta": "Equilátero"
+    },
+    {
+      "pregunta": "¿Qué caracteriza a la primera generación de computadoras?",
+      "opciones": [
+        "Usaban transistores",
+        "Usaban tubos de vacío",
+        "Eran portátiles",
+        "Tenían pantallas táctiles"
+      ],
+      "respuesta_correcta": "Usaban tubos de vacío"
+    },
+    {
+      "pregunta": "¿Qué componente apareció en la segunda generación de computadoras?",
+      "opciones": [
+        "Microprocesador",
+        "Circuitos integrados",
+        "Transistores",
+        "Discos duros"
+      ],
+      "respuesta_correcta": "Transistores"
+    },
+    {
+      "pregunta": "¿Cuál es una característica de la tercera generación de computadoras?",
+      "opciones": [
+        "Usaban tarjetas perforadas",
+        "Tenían inteligencia artificial",
+        "Utilizaban circuitos integrados",
+        "Eran a vapor"
+      ],
+      "respuesta_correcta": "Utilizaban circuitos integrados"
+    },
+    {
+      "pregunta": "¿Qué lenguaje de programación apareció en la tercera generación?",
+      "opciones": [
+        "FORTRAN",
+        "COBOL",
+        "Lenguaje máquina",
+        "C"
+      ],
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿En qué generación se comenzaron a usar los sistemas operativos?",
+      "opciones": [
+        "Primera",
+        "Segunda",
+        "Tercera",
+        "Cuarta"
+      ],
+      "respuesta_correcta": "Tercera"
+    }
+  ],
+  "4to SEC": [
+     {
+      "pregunta": "¿Qué elemento tiene número atómico 1?",
+      "opciones": ["Helio", "Oxígeno", "Hidrógeno", "Carbono"],
+      "respuesta_correcta": "Hidrógeno"
+    },
+    {
+      "pregunta": "¿Qué obra escribió William Shakespeare?",
+      "opciones": ["Odisea", "Hamlet", "El Quijote", "Don Quijote"],
+      "respuesta_correcta": "Hamlet"
+    },
+    {
+      "pregunta": "¿Qué corriente artística creó Salvador Dalí?",
+      "opciones": ["Cubismo", "Surrealismo", "Renacimiento", "Impresionismo"],
+      "respuesta_correcta": "Surrealismo"
+    },
+    {
+      "pregunta": "¿Cómo se le llama a los símbolos matemáticos +, −, ×, ÷?",
+      "opciones": ["Operadores aritméticos", "Símbolos lógicos", "Vectores", "Paréntesis"],
+      "respuesta_correcta": "Operadores aritméticos"
+    },
+    {
+      "pregunta": "¿Cuál es la raíz cúbica de 27?",
+      "opciones": ["3", "9", "2", "27"],
+      "respuesta_correcta": "3"
+    },
+    {
+      "pregunta": "¿Qué es un sistema operativo?",
+      "opciones": [
+        "Un tipo de virus",
+        "Un componente físico",
+        "Un programa que gestiona los recursos del sistema",
+        "Una red de computadoras"
+      ],
+      "respuesta_correcta": "Un programa que gestiona los recursos del sistema"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un sistema operativo?",
+      "opciones": [
+        "Windows",
+        "Google Chrome",
+        "Facebook",
+        "Excel"
+      ],
+      "respuesta_correcta": "Windows"
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del escritorio en Windows?",
+      "opciones": [
+        "Mostrar publicidad",
+        "Almacenar archivos físicamente",
+        "Servir como interfaz para acceder a programas y archivos",
+        "Actualizar el sistema"
+      ],
+      "respuesta_correcta": "Servir como interfaz para acceder a programas y archivos"
+    },
+    {
+      "pregunta": "¿Qué elemento de Windows permite ver y administrar archivos y carpetas?",
+      "opciones": [
+        "Barra de tareas",
+        "Explorador de archivos",
+        "Panel de control",
+        "Escritorio"
+      ],
+      "respuesta_correcta": "Explorador de archivos"
+    },
+    {
+      "pregunta": "¿Qué permite hacer el Panel de Control en Windows?",
+      "opciones": [
+        "Jugar videojuegos",
+        "Controlar configuraciones del sistema",
+        "Navegar por internet",
+        "Cerrar el sistema"
+      ],
+      "respuesta_correcta": "Controlar configuraciones del sistema"
+    },
+    {
+      "pregunta": "¿Qué función tiene la Papelera de reciclaje en Windows?",
+      "opciones": [
+        "Eliminar archivos permanentemente",
+        "Recuperar archivos eliminados",
+        "Copiar programas",
+        "Formatear la computadora"
+      ],
+      "respuesta_correcta": "Recuperar archivos eliminados"
+    },
+    {
+      "pregunta": "¿Cómo se llama el botón que permite apagar el equipo en Windows?",
+      "opciones": [
+        "Inicio",
+        "Configuración",
+        "Cerrar sesión",
+        "Salir"
+      ],
+      "respuesta_correcta": "Inicio"
+    },
+    {
+      "pregunta": "¿Qué significa 'multitarea' en un sistema operativo?",
+      "opciones": [
+        "Realizar una sola tarea a la vez",
+        "Compartir archivos entre usuarios",
+        "Ejecutar varios programas al mismo tiempo",
+        "Eliminar tareas automáticamente"
+      ],
+      "respuesta_correcta": "Ejecutar varios programas al mismo tiempo"
+    },
+    {
+      "pregunta": "¿Cuál es la función del botón derecho del mouse en Windows?",
+      "opciones": [
+        "Seleccionar archivos",
+        "Ejecutar programas directamente",
+        "Abrir menús contextuales",
+        "Mover el puntero"
+      ],
+      "respuesta_correcta": "Abrir menús contextuales"
+    },
+    {
+      "pregunta": "¿Qué indica una ventana activa en Windows?",
+      "opciones": [
+        "Que está minimizada",
+        "Que está siendo utilizada en ese momento",
+        "Que está cerrada",
+        "Que no responde"
+      ],
+      "respuesta_correcta": "Que está siendo utilizada en ese momento"
+    }
+  ],
+  "5to SEC": [
+     {
+      "pregunta": "¿Quién pintó 'La noche estrellada'?",
+      "opciones": ["Claude Monet", "Pablo Picasso", "Vincent van Gogh", "Salvador Dalí"],
+      "respuesta_correcta": "Vincent van Gogh"
+    },
+    {
+      "pregunta": "¿Qué ley física explica la gravitación universal?",
+      "opciones": ["Ley de Ohm", "Ley de Newton", "Ley de Boyle", "Ley de Fourier"],
+      "respuesta_correcta": "Ley de Newton"
+    },
+    {
+      "pregunta": "¿Cuál es el cuadrado de 12?",
+      "opciones": ["144", "121", "132", "160"],
+      "respuesta_correcta": "144"
+    },
+    {
+      "pregunta": "¿Qué tipo de triángulo tiene un ángulo recto?",
+      "opciones": ["Equilátero", "Isósceles", "Escaleno", "Rectángulo"],
+      "respuesta_correcta": "Rectángulo"
+    },
+    {
+      "pregunta": "¿Qué país es famoso por sus canguros?",
+      "opciones": ["Australia", "India", "Brasil", "Sudáfrica"],
+      "respuesta_correcta": "Australia"
+    },
+    {
+      "pregunta": "¿Qué significa HTML?",
+      "opciones": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "Hyper Tool Markup Language",
+        "Home Tool Markup Language"
+      ],
+      "respuesta_correcta": "HyperText Markup Language"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para colocar el título de una página?",
+      "opciones": [
+        "<title>",
+        "<head>",
+        "<h1>",
+        "<body>"
+      ],
+      "respuesta_correcta": "<title>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para escribir dentro del cuerpo de la página?",
+      "opciones": [
+        "<body>",
+        "<head>",
+        "<footer>",
+        "<html>"
+      ],
+      "respuesta_correcta": "<body>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para escribir títulos grandes?",
+      "opciones": [
+        "<h1>",
+        "<p>",
+        "<title>",
+        "<b>"
+      ],
+      "respuesta_correcta": "<h1>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para escribir párrafos?",
+      "opciones": [
+        "<p>",
+        "<h1>",
+        "<text>",
+        "<div>"
+      ],
+      "respuesta_correcta": "<p>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para crear una tabla?",
+      "opciones": [
+        "<table>",
+        "<tab>",
+        "<tr>",
+        "<td>"
+      ],
+      "respuesta_correcta": "<table>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para crear una fila en una tabla?",
+      "opciones": [
+        "<tr>",
+        "<td>",
+        "<th>",
+        "<row>"
+      ],
+      "respuesta_correcta": "<tr>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para una celda normal en la tabla?",
+      "opciones": [
+        "<td>",
+        "<th>",
+        "<tr>",
+        "<table>"
+      ],
+      "respuesta_correcta": "<td>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para el encabezado de una tabla?",
+      "opciones": [
+        "<th>",
+        "<td>",
+        "<title>",
+        "<h1>"
+      ],
+      "respuesta_correcta": "<th>"
+    },
+    {
+      "pregunta": "¿Dónde se colocan todas las etiquetas de HTML?",
+      "opciones": [
+        "Dentro de <html>",
+        "Dentro de <body>",
+        "Fuera del navegador",
+        "Dentro de <p>"
+      ],
+      "respuesta_correcta": "Dentro de <html>"
+    },
+    {
+      "pregunta": "¿Qué extensión tienen los archivos HTML?",
+      "opciones": [
+        ".htm",
+        ".html",
+        ".txt",
+        ".css"
+      ],
+      "respuesta_correcta": ".html"
+    },
+    {
+      "pregunta": "¿Qué etiqueta contiene la parte visible en la página?",
+      "opciones": [
+        "<body>",
+        "<head>",
+        "<html>",
+        "<p>"
+      ],
+      "respuesta_correcta": "<body>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para poner texto en negrita?",
+      "opciones": [
+        "<b>",
+        "<p>",
+        "<strong>",
+        "<negrita>"
+      ],
+      "respuesta_correcta": "<b>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta se usa para poner texto en cursiva?",
+      "opciones": [
+        "<i>",
+        "<italic>",
+        "<em>",
+        "<cursiva>"
+      ],
+      "respuesta_correcta": "<i>"
+    },
+    {
+      "pregunta": "¿Qué etiqueta inicia un documento HTML?",
+      "opciones": [
+        "<html>",
+        "<head>",
+        "<start>",
+        "<title>"
+      ],
+      "respuesta_correcta": "<html>"
+    },
+    {
+      "pregunta": "¿Qué programa se usa para trabajar con hojas de cálculo?",
+      "opciones": [
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Paint"
+      ],
+      "respuesta_correcta": "Excel"
+    },
+    {
+      "pregunta": "¿Qué símbolo se usa para comenzar una fórmula en Excel?",
+      "opciones": [
+        "+",
+        "=",
+        "-",
+        "*"
+      ],
+      "respuesta_correcta": "="
+    },
+    {
+      "pregunta": "¿Qué fórmula se usa para sumar en Excel?",
+      "opciones": [
+        "=SUMA()",
+        "=RESTAR()",
+        "=MULTIPLICAR()",
+        "=DIVIDIR()"
+      ],
+      "respuesta_correcta": "=SUMA()"
+    },
+    {
+      "pregunta": "¿Qué función permite contar celdas con números?",
+      "opciones": [
+        "=CONTAR()",
+        "=SUMA()",
+        "=CELDA()",
+        "=SI()"
+      ],
+      "respuesta_correcta": "=CONTAR()"
+    },
+    {
+      "pregunta": "¿Qué letras identifican las columnas en Excel?",
+      "opciones": [
+        "Números",
+        "Letras",
+        "Símbolos",
+        "Colores"
+      ],
+      "respuesta_correcta": "Letras"
+    },
+    {
+      "pregunta": "¿Qué números identifican las filas en Excel?",
+      "opciones": [
+        "Letras",
+        "Palabras",
+        "Números",
+        "Códigos"
+      ],
+      "respuesta_correcta": "Números"
+    },
+    {
+      "pregunta": "¿Qué es una celda en Excel?",
+      "opciones": [
+        "Una fila completa",
+        "Un cuadro donde se puede escribir",
+        "Un tipo de letra",
+        "Un botón"
+      ],
+      "respuesta_correcta": "Un cuadro donde se puede escribir"
+    },
+    {
+      "pregunta": "¿Qué hace la función =PROMEDIO()?",
+      "opciones": [
+        "Suma todo",
+        "Resta valores",
+        "Calcula el promedio",
+        "Ordena los datos"
+      ],
+      "respuesta_correcta": "Calcula el promedio"
+    },
+    {
+      "pregunta": "¿Qué combinación de teclas guarda el archivo?",
+      "opciones": [
+        "Ctrl + C",
+        "Ctrl + V",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "respuesta_correcta": "Ctrl + S"
+    },
+    {
+      "pregunta": "¿Qué se puede insertar en una celda?",
+      "opciones": [
+        "Texto",
+        "Números",
+        "Fórmulas",
+        "Todas las anteriores"
+      ],
+      "respuesta_correcta": "Todas las anteriores"
+    }
+  ],
+  "6to SEC": [ {
+      "pregunta": "¿Cuál es la capital de Kazajistán?",
+      "opciones": ["Nur‑Sultan", "Astaná", "Almatý", "Bishkek"],
+      "respuesta_correcta": "Astaná"
+    },
+    {
+      "pregunta": "¿Qué estudio trata sobre los seres vivos?",
+      "opciones": ["Física", "Biología", "Química", "Matemáticas"],
+      "respuesta_correcta": "Biología"
+    },
+    {
+      "pregunta": "¿Cuál es la raíz cuadrada de 256?",
+      "opciones": ["14", "16", "18", "20"],
+      "respuesta_correcta": "16"
+    },
+    {
+      "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+      "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Pablo Neruda", "Jorge Luis Borges"],
+      "respuesta_correcta": "Gabriel García Márquez"
+    },
+    {
+      "pregunta": "¿Cuál es la velocidad aproximada de la luz en el vacío?",
+      "opciones": ["300 000 km/s", "150 000 km/s", "30 000 km/s", "3 000 km/s"],
+      "respuesta_correcta": "300 000 km/s"
+    },
+    {
+      "pregunta": "¿Qué significa HTML?",
+      "opciones": [
+        "HyperText Markup Language",
+        "HighText Machine Language",
+        "HyperTabular Markup Language",
+        "None of these"
+      ],
+      "respuesta_correcta": "HyperText Markup Language"
+    },
+    {
+      "pregunta": "¿Para qué se usa CSS en el desarrollo web?",
+      "opciones": [
+        "Para estructurar contenido",
+        "Para conectar a la base de datos",
+        "Para dar estilo a las páginas",
+        "Para programar funciones"
+      ],
+      "respuesta_correcta": "Para dar estilo a las páginas"
+    },
+    {
+      "pregunta": "¿Qué lenguaje se usa para programar la funcionalidad de páginas web?",
+      "opciones": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PHP"
+      ],
+      "respuesta_correcta": "JavaScript"
+    },
+    {
+      "pregunta": "¿Qué es una base de datos?",
+      "opciones": [
+        "Un sitio web",
+        "Un conjunto de archivos sueltos",
+        "Un sistema para almacenar y organizar datos",
+        "Un tipo de software de diseño"
+      ],
+      "respuesta_correcta": "Un sistema para almacenar y organizar datos"
+    },
+    {
+      "pregunta": "¿Qué es un algoritmo?",
+      "opciones": [
+        "Un virus",
+        "Una lista de instrucciones para resolver un problema",
+        "Una página web",
+        "Un estilo de letra"
+      ],
+      "respuesta_correcta": "Una lista de instrucciones para resolver un problema"
+    },
+    {
+      "pregunta": "¿Qué es hardware?",
+      "opciones": [
+        "La parte física de una computadora",
+        "Un software",
+        "Un lenguaje de programación",
+        "Una página web"
+      ],
+      "respuesta_correcta": "La parte física de una computadora"
+    },
+    {
+      "pregunta": "¿Qué es software?",
+      "opciones": [
+        "Parte física",
+        "Programas que usa una computadora",
+        "Un tipo de hardware",
+        "Un virus"
+      ],
+      "respuesta_correcta": "Programas que usa una computadora"
+    },
+    {
+      "pregunta": "¿Qué representa un rombo en un diagrama de flujo?",
+      "opciones": [
+        "Una acción",
+        "Una decisión",
+        "Inicio/Fin",
+        "Un conector"
+      ],
+      "respuesta_correcta": "Una decisión"
+    },
+    {
+      "pregunta": "¿Qué símbolo representa el inicio o fin en un diagrama de flujo?",
+      "opciones": [
+        "Óvalo",
+        "Cuadro",
+        "Rombo",
+        "Círculo"
+      ],
+      "respuesta_correcta": "Óvalo"
+    },
+    {
+      "pregunta": "¿Qué representa un rectángulo en un diagrama de flujo?",
+      "opciones": [
+        "Decisión",
+        "Proceso",
+        "Inicio/Fin",
+        "Entrada/Salida"
+      ],
+      "respuesta_correcta": "Proceso"
+    },
+    {
+      "pregunta": "¿Qué es un bit?",
+      "opciones": [
+        "Unidad de almacenamiento",
+        "Unidad mínima de información",
+        "Un tipo de archivo",
+        "Un lenguaje"
+      ],
+      "respuesta_correcta": "Unidad mínima de información"
+    },
+    {
+      "pregunta": "¿Cuál es un sistema operativo?",
+      "opciones": [
+        "Google",
+        "Microsoft Word",
+        "Windows",
+        "Chrome"
+      ],
+      "respuesta_correcta": "Windows"
+    },
+    {
+      "pregunta": "¿Cuál es la función principal del CPU?",
+      "opciones": [
+        "Mostrar imágenes",
+        "Guardar archivos",
+        "Procesar información",
+        "Reproducir sonido"
+      ],
+      "respuesta_correcta": "Procesar información"
+    },
+    {
+      "pregunta": "¿Qué es una red informática?",
+      "opciones": [
+        "Una computadora",
+        "Un sistema de archivos",
+        "Conjunto de computadoras conectadas",
+        "Una página web"
+      ],
+      "respuesta_correcta": "Conjunto de computadoras conectadas"
+    },
+    {
+      "pregunta": "¿Qué es una dirección IP?",
+      "opciones": [
+        "Nombre de usuario",
+        "Dirección física",
+        "Identificador único de una computadora en una red",
+        "Un navegador"
+      ],
+      "respuesta_correcta": "Identificador único de una computadora en una red"
+    }
+  ]
+}
