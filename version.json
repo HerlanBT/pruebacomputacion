@@ -1,1 +1,6 @@
-{"app_name":"juego","version":"1.0.0","build_number":"1","package_name":"juego"}
+{"app_name":"juego","version":"1.0.0","build_number":"1","package_name":"juego",{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
+}
